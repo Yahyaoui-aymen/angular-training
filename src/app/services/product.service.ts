@@ -23,7 +23,7 @@ export class ProductService {
   }
 }
 
-
+//get response 
 
 interface GetResponse {
   _embedded: {
